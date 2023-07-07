@@ -5,7 +5,7 @@
 
 - 🧐 &nbsp; Exploring new technologies and develping beautiful websites.
 - 🎓 &nbsp; Studying Computer Science Engineering at Savitribai Phule University,Pune.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Cloud Architecture, DevOps
 - ✍️ &nbsp; Pursuing Graphic Design,Video Editing,UI/UX and making YouTube videos as side hobby. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
